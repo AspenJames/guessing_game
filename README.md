@@ -10,4 +10,4 @@ Licensed under the GNU General Public License, v3.0. See [LICENSE](https://githu
 
 ## Contributing 
 
-All contributions are expected to follow the Code of Conduct laid out in [CONTRIBUTING.md]()
+All contributions are expected to follow the Code of Conduct laid out in [CONTRIBUTING.md](https://github.com/AspenJames/guessing_game/blob/master/CONTRIBUTING.md)
